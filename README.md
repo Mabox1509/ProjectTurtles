@@ -1,2 +1,2 @@
 # ProjectTurtles
-A multiplayer gabe about turtles
+A multiplayer game about turtles
